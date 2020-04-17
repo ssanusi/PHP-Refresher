@@ -8,6 +8,12 @@
     <title>PDO Demo</title>
 </head>
 <body>
+<nav>
+    <ul>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">contact</a></li>
+    </ul>
+</nav>
 <div>
     <ul>
         <?php foreach ($todos as $todo): ?>
