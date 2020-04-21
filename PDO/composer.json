@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/PDO",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "sulaiman sanusi",
+      "email": "sulaiman.sanusi@icloud.com"
+    }
+  ],
+  "require": {
+    
+  },
+  "autoload": {
+    "classmap": [
+      "./"
+    ]
+  }
+}
